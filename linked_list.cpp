@@ -42,5 +42,5 @@ void showList(Node* xx)
         xx = xx->move;
 
     }
-    cout << endl;
+    cout << endl<<endl;
 }
