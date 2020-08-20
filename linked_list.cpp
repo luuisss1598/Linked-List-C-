@@ -43,4 +43,5 @@ void showList(Node* xx)
 
     }
     cout << endl<<endl;
+    cout << "this is the end...." << endl;
 }
